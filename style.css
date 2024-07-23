@@ -10,7 +10,7 @@ a {
 }
 
 body {
-    color: #000;
+    color: #fff;
 }
 
 /* NAVBAR */
@@ -47,7 +47,6 @@ body {
 
 /* HEADER */
 .header {
-    color: #fff;
     background-color: var(--color-third);
     padding: 50px 0;
 }
@@ -66,10 +65,14 @@ body {
     transform: translateY(100px);
 }
 
+/* CONTENT */
+.content {
+    background-color: var(--color-fourth);
+}
+
 /* FOOTER */
 .footer {
     background-color: rgb(30,41,59);
-    color: #fff;
     padding: 70px 0;
 }
 
