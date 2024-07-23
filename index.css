@@ -1,0 +1,44 @@
+:root {
+    --color-primary: rgb(19,78,74);
+    --color-second: rgb(31, 129, 123);
+    --color-third: rgb(28, 40, 62);
+    --color-fourth: rgb(28, 40, 62);
+}
+
+.container {
+    width: 90%;
+    max-width: 1440px;
+    margin: auto;
+    display: block;
+}
+
+.flex {
+    display: flex;
+}
+
+.content-between {
+    justify-content: space-between;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: rgb(147, 145, 145);
+    color: #000;
+    outline: none;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: rgb(15, 174, 163);
+    color: #fff;
+}
+
+.text-center {
+    text-align: center;
+}
