@@ -13,5 +13,6 @@ Web Education Code bertujuan untuk menjadi tempat bagi para pengembang untuk bel
 - **Sumber Daya**: Daftar sumber daya berguna, termasuk buku, kursus online, dan alat-alat yang direkomendasikan.
 
 ## Penggunaan dan Link
+LINK : https://okiweb.masuk.web.id/
 
 Comming Soon
