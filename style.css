@@ -71,6 +71,16 @@ body {
     background-size: cover;
 }
 
+.header-kuliner {
+    background-color: var(--color-third);
+    padding: 50px 0;
+    height: 80vh;
+    background-image: url(assets/bg4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 .header .text h1 {
     font-size: 3.5rem;
     line-height: 1;
@@ -115,6 +125,34 @@ body {
 
 .content-seni .tradisonal {
     color: #000;
+}
+
+/* Content-Kuliner */
+.content-kuliner {
+    height: 70vh;
+    background-color: #000;
+}
+
+.content-kuliner h2 {
+    margin-bottom: 1vh;
+}
+
+.text-left {
+    width: 50%;
+    height: 25vh;
+    background-color: #D0A933;
+    padding: 30px 50px 30px 50px;
+    border-radius: 0 15vh 15vh 0;
+    
+}
+
+.text-right {
+    width: 50%;
+    height: 25vh;
+    background-color: #D0A933;
+    padding: 30px 50px 30px 50px;
+    border-radius: 15vh 0 0 15vh;
+    text-align: end;
 }
 
 /* FOOTER */
