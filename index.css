@@ -28,6 +28,10 @@
     align-items: center;
 }
 
+.items-end {
+    align-items: end;
+}
+
 .btn {
     display: inline-block;
     text-decoration: none;
