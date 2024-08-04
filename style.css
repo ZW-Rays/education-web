@@ -21,7 +21,6 @@ body {
     width: 100%;
     min-height: 60px;
     background-color: var(--color-primary);
-    display: flex;
     align-items: center;
 }
 
@@ -81,6 +80,10 @@ body {
     background-size: cover;
 }
 
+.header .text {
+    margin-left: 20vh;
+}
+
 .header .text h1 {
     font-size: 3.5rem;
     line-height: 1;
@@ -118,6 +121,14 @@ body {
     padding: 50px;
 }   
 
+.content .card-glossy p {
+    font-size: 18px;
+}
+
+.content2 {
+    min-height: 200px;
+    background-color: #000;
+}
 
 
 /* Content-Seni */

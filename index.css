@@ -6,10 +6,12 @@
 }
 
 .container {
-    width: 90%;
-    max-width: 1440px;
-    margin: auto;
+    /* di komen karena ini agar content full */
+    /* width: 95%;
+    max-width: 1440px; 
     display: block;
+    */
+    margin: auto;
 }
 
 .h100 {
@@ -22,6 +24,10 @@
 
 .content-between {
     justify-content: space-between;
+}
+
+.space-around {
+    justify-content: space-around;
 }
 
 .items-center {
