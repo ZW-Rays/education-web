@@ -207,16 +207,20 @@ body {
 /* Content-About Us */
 .content-about {
     display: flex;
+    margin-left: -40px;
 }
 
 .profile-left {
-    margin-left: 20vh;
-    float: left;
+    /* margin-left: 20vh; */
+    /* float: left; */
+    margin-right: 800px;
 }
 
 .profile-right {
-    margin-right: 20vh;
-    float: right;
+    /* margin-right: 20vh;
+    float: right; */
+    
+    margin-left: 800px;
 }
 
 /* FOOTER */
